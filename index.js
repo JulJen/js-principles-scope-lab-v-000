@@ -2,3 +2,6 @@
 
 // declare customerName to be bob in global scope
 var customerName = 'bob';
+
+const customerName = 'BOB';
+upperCaseCustomerName()
