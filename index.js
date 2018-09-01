@@ -4,4 +4,6 @@
 var customerName = 'bob';
 
 const customerName = 'BOB';
-upperCaseCustomerName()
+function upperCaseCustomerName(){
+  return customerName
+}
